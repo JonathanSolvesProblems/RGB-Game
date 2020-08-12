@@ -11,6 +11,8 @@ body {
 }
 
 #container {
+rgb(208, 252, 91) Color Game
+Correct! 
 	margin: 0 auto; 
 	max-width: 600px;
 }
@@ -19,6 +21,8 @@ h1 {
 	color: white;
 }
 
-span {
-	color: white;
+#stripe {
+	background: white;
+	height: 30px;
+	text-align: center;
 }
